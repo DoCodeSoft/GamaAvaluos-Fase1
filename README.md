@@ -1,6 +1,6 @@
 # Revisión de Pendientes
 
-Estatus: :clock4:(En proceso)  :bangbang:(En revisión Gama)  :heavy_check_mark:(Concluido)  :hourglass:(En espera)
+Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Concluido)  :hourglass:(En espera)
 
 ## Lista 2
 ![](https://img.shields.io/badge/Creado-18--May--2022-blue)
@@ -24,7 +24,7 @@ Estatus: :clock4:(En proceso)  :bangbang:(En revisión Gama)  :heavy_check_mark:
 ## Lista 1
 ![](https://img.shields.io/badge/Creado-06--May--2022-blue)
 ![](https://img.shields.io/badge/Entrega-17--May--2022-success)
-:bangbang:
+:eyes:
 
 > Módulo Etiquetas
 - [x] No se muestra toda la lista de solicitantes
