@@ -4,7 +4,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 
 ## Lista 2
 ![](https://img.shields.io/badge/Creado-18--May--2022-blue)
-![](https://img.shields.io/badge/Entrega-24--May--2022-success)
+![](https://img.shields.io/badge/Entrega-27--May--2022-success)
 :clock4:
 
 > Módulo Entregas
