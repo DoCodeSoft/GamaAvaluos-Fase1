@@ -30,9 +30,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 - [x] No se muestra toda la lista de solicitantes
 
 > Etiqueta
-- [x] Ordenar por Folio (Solicitud)
-- [x] Retirar palabaras en ubicación:
-  - [x] calle, Num, null, Int y Estado
+- [x] Mostrar los solicitantes en una lista
 
 > Módulo Facturas
 - [x] Ajustar impresion
