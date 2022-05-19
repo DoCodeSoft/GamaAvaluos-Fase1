@@ -20,6 +20,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 
 > Módulo Facturas
 - [ ] Ordenar registros empezando por el mas reciente
+- [ ] Al generar una factura se cambia el número de solicitud
 
 ## Lista 1
 ![](https://img.shields.io/badge/Creado-06--May--2022-blue)
