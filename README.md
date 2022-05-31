@@ -8,19 +8,20 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 :clock4:
 
 > Módulo Entregas
-- [ ] Ordenar por Folio (Solicitud)
-- [ ] Al dar de alta un segundo folio limpiar los datos del folio anterior.
+- [x] Ordenar por Folio (Solicitud)
+- [x] Al dar de alta un segundo folio limpiar los datos del folio anterior.
 - [ ] Al momento de impresión no aparece el contacto (por confirmar) :hourglass:
-- [ ] Al realizar una nueva entrega, aparecen los datos de la entrega anterior.
+  - [x] Se valida que el contacto aparece
+- [x] Al realizar una nueva entrega, aparecen los datos de la entrega anterior.
 
 > Etiqueta
-- [ ] Ordenar por Folio (Solicitud)
-- [ ] Retirar palabaras en ubicación:
-  - [ ] calle, Num, null, Int y Estado
+- [x] Ordenar por Folio (Solicitud)
+- [x] Retirar palabaras en ubicación:
+  - [x] calle, Num, null, Int y Estado
 
 > Módulo Facturas
-- [ ] Ordenar registros empezando por el mas reciente
-- [ ] Al generar una factura se cambia el número de solicitud
+- [x] Ordenar registros empezando por el mas reciente
+- [x] Al generar una factura se cambia el número de solicitud
 
 ## Lista 1
 ![](https://img.shields.io/badge/Creado-06--May--2022-blue)
