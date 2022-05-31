@@ -5,6 +5,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 ## Lista 3
 ![](https://img.shields.io/badge/Creado-30--May--2022-blue)
 ![](https://img.shields.io/badge/Entrega-Pendiente-orange)
+:hourglass:
 
 > Módulo Solicitantes
 - [ ] Buscar Solicitante con filtros
@@ -18,7 +19,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 ## Lista 2
 ![](https://img.shields.io/badge/Creado-18--May--2022-blue)
 ![](https://img.shields.io/badge/Entrega-27--May--2022-success)
-:clock4:
+:eyes:
 
 > Módulo Entregas
 - [x] Ordenar por Folio (Solicitud)
@@ -39,7 +40,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 ## Lista 1
 ![](https://img.shields.io/badge/Creado-06--May--2022-blue)
 ![](https://img.shields.io/badge/Entrega-17--May--2022-success)
-:eyes:
+:heavy_check_mark:
 
 > Módulo Etiquetas
 - [x] No se muestra toda la lista de solicitantes
