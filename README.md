@@ -25,7 +25,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 - [x] Ordenar por Folio (Solicitud)
 - [x] Al dar de alta un segundo folio limpiar los datos del folio anterior.
 - [ ] Al momento de impresión no aparece el contacto (por confirmar) :hourglass:
-  - [x] Se valida que el contacto aparece
+  - [x] Se valida que el contacto aparece (nos pueden informar en que momento pasa).
 - [x] Al realizar una nueva entrega, aparecen los datos de la entrega anterior.
 
 > Etiqueta
