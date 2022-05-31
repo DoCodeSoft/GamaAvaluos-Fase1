@@ -2,6 +2,19 @@
 
 Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Concluido)  :hourglass:(En espera)
 
+## Lista 3
+![](https://img.shields.io/badge/Creado-30--May--2022-blue)
+![](https://img.shields.io/badge/Entrega-Pendiente-orange)
+
+> Módulo Solicitantes
+- [ ] Buscar Solicitante con filtros
+  - [x] Se realizo una busqueda y funciona correctamente (ej. ZALDIVAR GAMBOA HORACIO)
+  ![image](https://user-images.githubusercontent.com/84867933/171195037-fb374578-4568-4310-874c-925d9f278c42.png)
+
+> Módulo Facturas
+- [ ] Al buscar solicitante se queda pensando
+  - [ ] Proporcionar folio de solicitud en la que pasa esto (por parte de Gama)
+
 ## Lista 2
 ![](https://img.shields.io/badge/Creado-18--May--2022-blue)
 ![](https://img.shields.io/badge/Entrega-27--May--2022-success)
