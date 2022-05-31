@@ -14,6 +14,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 
 > Módulo Facturas
 - [ ] Al buscar solicitante se queda pensando
+  - [x] Se valida busqueda y funciona 
   - [ ] Proporcionar folio de solicitud en la que pasa esto (por parte de Gama)
 
 ## Lista 2
