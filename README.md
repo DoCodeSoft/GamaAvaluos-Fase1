@@ -2,25 +2,51 @@
 
 Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Concluido)  :hourglass:(En espera)
 
+## Lista 4
+![](https://img.shields.io/badge/Creado-17--Jun--2022-blue)
+![](https://img.shields.io/badge/Entrega-24--Jun--2022-orange)
+:clock4:
+
+> General
+- [ ] Actualización de las tablas con nuevas funciones
+- [ ] No hay opción de "cancelado" en la solicitud de avalúos, así como en valores
+
+> Módulo Entregas
+- [ ] En las entregas al intentar editar aparece en blanco
+
+> Módulo Solicitudes
+- [ ] Validar cálculo de días para entrega de avalúos
+  - [ ] 5 días y hacendarios 3
+
+![fechaEntrega](https://user-images.githubusercontent.com/84867933/174531174-ce17e7ff-9e7d-41c7-8eb0-58ec6bff5510.jpeg)
+
+
+ 
+> Módulo Facturas
+- [ ] Los recibos no coinciden con los folios de solicitud seleccionados al momento de crear
+
+![FacturasFoliosSolicitud](https://user-images.githubusercontent.com/84867933/174531083-84f05045-54c2-4797-acf5-52aed390abb3.jpeg)
+
+
 ## Lista 3
 ![](https://img.shields.io/badge/Creado-30--May--2022-blue)
-![](https://img.shields.io/badge/Entrega-Pendiente-orange)
-:hourglass:
+![](https://img.shields.io/badge/Entrega-17--Jun--2022-success)
+:eyes:
 
 > Módulo Solicitantes
-- [ ] Buscar Solicitante con filtros
+- [x] Buscar Solicitante con filtros (Se actualiza en Lista 4)
   - [x] Se realizo una busqueda y funciona correctamente (ej. ZALDIVAR GAMBOA HORACIO)
   ![image](https://user-images.githubusercontent.com/84867933/171195037-fb374578-4568-4310-874c-925d9f278c42.png)
 
 > Módulo Facturas
-- [ ] Al buscar solicitante se queda pensando
+- [x] Al buscar solicitante se queda pensando
   - [x] Se valida busqueda y funciona 
-  - [ ] Proporcionar folio de solicitud en la que pasa esto (por parte de Gama)
+  - [ ] Proporcionar folio de solicitud en la que pasa esto (por parte de Gama) :hourglass:
 
 ## Lista 2
 ![](https://img.shields.io/badge/Creado-18--May--2022-blue)
 ![](https://img.shields.io/badge/Entrega-27--May--2022-success)
-:eyes:
+:heavy_check_mark:
 
 > Módulo Entregas
 - [x] Ordenar por Folio (Solicitud)
