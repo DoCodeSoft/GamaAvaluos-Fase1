@@ -4,7 +4,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 
 ## Lista 4
 ![](https://img.shields.io/badge/Creado-17--Jun--2022-blue)
-![](https://img.shields.io/badge/Entrega-24--Jun--2022-orange)
+![](https://img.shields.io/badge/Entrega-1--Jul--2022-orange)
 :clock4:
 
 > General
