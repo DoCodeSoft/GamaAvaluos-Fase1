@@ -30,7 +30,7 @@ Estatus: :clock4:(En proceso)  :eyes:(En revisión Gama)  :heavy_check_mark:(Con
 
 ## Lista 3
 ![](https://img.shields.io/badge/Creado-30--May--2022-blue)
-![](https://img.shields.io/badge/Entrega-17--Jun--2022-success)
+![](https://img.shields.io/badge/Entrega-27--Jun--2022-success)
 :eyes:
 
 > Módulo Solicitantes
